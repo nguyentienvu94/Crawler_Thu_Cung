@@ -1,0 +1,20 @@
+{
+  "name": "thucung",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "image-downloader": "^3.2.2",
+    "jsdom": "^11.2.0",
+    "jsonfile": "^3.0.1",
+    "lz-string": "^1.4.4",
+    "request": "^2.81.0",
+    "sqlite3": "^3.1.9"
+  }
+}
